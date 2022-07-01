@@ -3,11 +3,35 @@
 An awesome list of longevity resources for living longer, healthier lives.    
 
 ## Companies and Organizations
-- [VitaDAO](https://www.vitadao.com/): A community-governed group that funds and advances longevity research
-- [Long Hack](https://longhack.org): Online and real-life longevity hackathons
+- [VitaDAO](https://www.vitadao.com/): A community-governed group that funds and advances longevity research.
+- [Long Hack](https://longhack.org): Online and real-life longevity hackathons.
+- [Loyal for Dogs](https://loyalfordogs.com/): A clinical-stage veterinary medicine company. Aims to improve the healthspan (quality of life) and lifespan (years of life) of dogs.
+
+## Investors
+
+- [The Longevity Fund](https://www.longevity.vc/)
 
 ## Events
+
 - [Long Hack Hackathon](https://longhack.org/hackathon), January 21-23, 2022: A longevity-focused hackathon. 
+- [Aging Conferences (agingbiotech.info)](https://agingbiotech.info/conferences/): A spreadsheet of aging conferences.
+
+## Blogs
+- [Lifespan.io](https://www.lifespan.io/news-main/)
+- [Fight Aging](https://www.fightaging.org/)
+- [Longevity.technology](https://longevity.technology/)
+- [Longevity Marketcap Newsletter](https://sub.longevitymarketcap.com/)
+
+
+## Papers
+
+- [A C. elegans mutant that lives twice as long as wild type](https://www.nature.com/articles/366461a0), 1993, Nature: Found that mutations in the daf-2 gene and activity of the daf-16 gene can cause certain roundworms to live more than twice as long as those found in the wild.
+
+## Books
+
+- [Ending Aging](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367066/)
+- [Lifespan: Why We Age—and Why We Don't Have To](https://www.amazon.com/Lifespan-Why-Age-Dont-Have-ebook/dp/B07N4C6LGR/)
+
 
 ## Code
 

@@ -6,6 +6,10 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [VitaDAO](https://www.vitadao.com/): A community-governed group that funds and advances longevity research.
 - [Long Hack](https://longhack.org): Online and real-life longevity hackathons.
 - [Loyal for Dogs](https://loyalfordogs.com/): A clinical-stage veterinary medicine company. Aims to improve the healthspan (quality of life) and lifespan (years of life) of dogs.
+- [LessDeath](https://www.lessdeath.org/): An organisation focussed on education, training and career guidance.
+
+## Job Portals
+- [Longevity List](https://longevitylist.com/): Find jobs, companies, and investors in the longevity industry
 
 ## Investors
 
@@ -31,7 +35,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 
 - [Ending Aging](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367066/)
 - [Lifespan: Why We Age—and Why We Don't Have To](https://www.amazon.com/Lifespan-Why-Age-Dont-Have-ebook/dp/B07N4C6LGR/)
-
+- [Ageless: The New Science of Getting Older Without Getting Old](https://www.amazon.com/Ageless-Science-Getting-Older-Without/dp/B08P5CK4C3)
 
 ## Code
 

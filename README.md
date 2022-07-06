@@ -29,6 +29,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 ## Forums
 - [VitaDao Discord](https://discord.com/invite/3S3ftnmZYD)
 - [Lifespan.io Discord](https://discord.com/invite/4gNG9q4)
+- [r/Longevity subreddit](https://www.reddit.com/r/longevity)
 
 ## Papers
 

@@ -25,6 +25,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [Fight Aging](https://www.fightaging.org/)
 - [Longevity.technology](https://longevity.technology/)
 - [Longevity Marketcap Newsletter](https://sub.longevitymarketcap.com/)
+- [Longevity Protocols](https://longevity-protocols.com/) 
 
 ## Forums
 - [VitaDao Discord](https://discord.com/invite/3S3ftnmZYD)

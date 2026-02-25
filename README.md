@@ -33,13 +33,21 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [r/Longevity subreddit](https://www.reddit.com/r/longevity)
 - [longevity.garden forum](https://longevity.garden)
 
+n## Nutrition & Diet
+
+- [Blue Zones](https://www.bluezones.com/): Research on the five regions where people live the longest, identifying shared dietary and lifestyle patterns including plant-rich diets.
+- [Adventist Health Study-2](https://adventisthealthstudy.org/studies/AHS-2): Landmark cohort study of 96,000+ Seventh-day Adventists at Loma Linda University, demonstrating significant mortality benefits of vegetarian dietary patterns.
+- [NutritionFacts.org](https://nutritionfacts.org/): Nonprofit science-based resource providing free updates on the latest in nutrition research, founded by Michael Greger, MD.
+- [EAT-Lancet Commission](https://eatforum.org/eat-lancet-commission/): Global scientific commission defining a universal healthy reference diet within planetary boundaries, emphasizing plant-forward eating.
 ## Papers
 
 - [A C. elegans mutant that lives twice as long as wild type](https://www.nature.com/articles/366461a0), 1993, Nature: Found that mutations in the daf-2 gene and activity of the daf-16 gene can cause certain roundworms to live more than twice as long as those found in the wild.
+- [Vegetarian Dietary Patterns and Mortality in Adventist Health Study 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4191896/), 2013, JAMA Internal Medicine: Found that vegetarian dietary patterns were associated with lower mortality compared with nonvegetarian diets in a large cohort of Seventh-day Adventists.
 
 ## Books
 
 - [Ending Aging](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367066/)
+- [How Not to Die](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115)
 - [Lifespan: Why We Age—and Why We Don't Have To](https://www.amazon.com/Lifespan-Why-Age-Dont-Have-ebook/dp/B07N4C6LGR/)
 - [Ageless: The New Science of Getting Older Without Getting Old](https://www.amazon.com/Ageless-Science-Getting-Older-Without/dp/B08P5CK4C3)
 

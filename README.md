@@ -27,6 +27,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [Longevity.technology](https://longevity.technology/)
 - [Longevity Marketcap Newsletter](https://sub.longevitymarketcap.com/)
 - [Longevity Protocols](https://longevity-protocols.com/) 
+- [Biomogging](https://www.biomogging.com/stacks): Structured peptide, GLP-1, and longevity stack reference with calculators and dose context.
 
 ## Forums
 - [VitaDao Discord](https://discord.com/invite/3S3ftnmZYD)

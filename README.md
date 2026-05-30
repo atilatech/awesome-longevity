@@ -66,3 +66,5 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
     - [Age Associated Cancer Genome](https://github.com/maglab/Age-associated_cancer_genome): Supplementary figures, supplementary tables, and custom scripts used for the following article: [An integrative analysis of the age-associated multi-omic landscape across cancers](https://www.nature.com/articles/s41467-021-22560-y).
 
 - [Open Wearables](https://github.com/the-momentum/open-wearables): Self-hosted platform to unify wearable data through one AI-ready API.
+
+- [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup): Open-source healthspan competition platform with biological-age calculators, public leaderboards, athlete profiles, and transparent ranking data.

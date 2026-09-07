@@ -27,6 +27,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [Longevity.technology](https://longevity.technology/)
 - [Longevity Marketcap Newsletter](https://sub.longevitymarketcap.com/)
 - [Longevity Protocols](https://longevity-protocols.com/) 
+- [PeptidePlaza](https://peptideplaza.com/): A free, PubMed-sourced reference covering 50+ research peptides, dosing/reconstitution guidance, and a community-vetted vendor directory.
 
 ## Forums
 - [VitaDao Discord](https://discord.com/invite/3S3ftnmZYD)

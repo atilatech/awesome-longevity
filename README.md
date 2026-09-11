@@ -27,6 +27,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [Longevity.technology](https://longevity.technology/)
 - [Longevity Marketcap Newsletter](https://sub.longevitymarketcap.com/)
 - [Longevity Protocols](https://longevity-protocols.com/) 
+- [Hacked Self](https://www.hackedself.com/): evidence-first biohacking blog - protocols, supplement-stack audits, and cost-per-session math with n=1 caveats.
 
 ## Forums
 - [VitaDao Discord](https://discord.com/invite/3S3ftnmZYD)

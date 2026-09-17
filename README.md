@@ -28,6 +28,12 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [Longevity Marketcap Newsletter](https://sub.longevitymarketcap.com/)
 - [Longevity Protocols](https://longevity-protocols.com/) 
 
+## Educational Resources
+- [Age Revive Science](https://agerevive.com/science): Educational overview of NAD+, mitochondrial, and gut healthspan pathways.
+- [NMN vs NR for Cellular Energy](https://agerevive.com/learn/nmn-vs-nr-cellular-energy): Comparison of two NAD+ precursors used in longevity research.
+- [What Is Urolithin A](https://agerevive.com/learn/what-is-urolithin-a): Primer on urolithin A as a gut-derived mitochondrial metabolite.
+- [How to Build a Longevity Supplement Protocol](https://agerevive.com/learn/how-to-build-a-longevity-supplement-protocol): Structure/function guide to stacking common longevity compounds.
+
 ## Forums
 - [VitaDao Discord](https://discord.com/invite/3S3ftnmZYD)
 - [Lifespan.io Discord](https://discord.com/invite/4gNG9q4)

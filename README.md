@@ -50,6 +50,8 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 
 - [Aging clock](https://github.com/mdozmorov/Aging_clock): Data and papers related to epigenetic clocks predicting age
 
+- [Awesome Canine Geroscience](https://github.com/w0lph/awesome-canine-geroscience): Curated list of dog aging and longevity research: cohorts, trials, drug programs, data, tools and papers
+
 - [mdozmorov/Aging](https://github.com/mdozmorov/Aging): Scripts and data files for the epigenomic enrichment analysis of age-associated differentially methylated regions, and genes changing their expression with age.
 
 - [Mouse Epigenetic Clock](https://github.com/EpigenomeClock/MouseEpigeneticClock): Using the code provided here you are able to predict the age of a mouse using methylation information at 329 CpG sites.
@@ -66,3 +68,5 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
     - [Age Associated Cancer Genome](https://github.com/maglab/Age-associated_cancer_genome): Supplementary figures, supplementary tables, and custom scripts used for the following article: [An integrative analysis of the age-associated multi-omic landscape across cancers](https://www.nature.com/articles/s41467-021-22560-y).
 
 - [Open Wearables](https://github.com/the-momentum/open-wearables): Self-hosted platform to unify wearable data through one AI-ready API.
+
+- [Canine geroscience toolkit](https://github.com/w0lph/k9): Open data and agent tools for aging research in companion dogs: a versioned corpus of the canine aging literature, the FDA CVM FOI summaries for dog products as a dataset with quote-grounded pharmacokinetic and safety extractions, an MCP server (`dog-geroscience-mcp`) with dog-specific tools, and a grounded question set for evaluating models.

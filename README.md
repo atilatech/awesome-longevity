@@ -44,6 +44,10 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [Lifespan: Why We Age—and Why We Don't Have To](https://www.amazon.com/Lifespan-Why-Age-Dont-Have-ebook/dp/B07N4C6LGR/)
 - [Ageless: The New Science of Getting Older Without Getting Old](https://www.amazon.com/Ageless-Science-Getting-Older-Without/dp/B08P5CK4C3)
 
+## Tools
+
+- [Peptide Calculator Pro](https://peptidecalculatorpro.org/): Free, browser-based calculators for peptide reconstitution, dosing, multi-peptide blends, molecular weight and net charge. No signup.
+
 ## Code
 
 - [Methyl Clock](https://github.com/isglobal-brge/methylclock): This package allows the estimation of chronological and gestational DNA methylation (DNAm) age as well as biological age using different methylation clocks.

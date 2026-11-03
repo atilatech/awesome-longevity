@@ -23,6 +23,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 
 ## Blogs
 - [Lifespan.io](https://www.lifespan.io/news-main/)
+- [AgingResearch.News](https://agingresearch.news/s/agde2b): Every new aging paper as it lands, with short cited write-ups of the ones worth reading and whether the work was done in people, animals or cells. Free, with RSS feeds by topic.
 - [Fight Aging](https://www.fightaging.org/)
 - [Longevity.technology](https://longevity.technology/)
 - [Longevity Marketcap Newsletter](https://sub.longevitymarketcap.com/)

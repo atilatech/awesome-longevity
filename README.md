@@ -8,6 +8,7 @@ An [awesome](https://github.com/sindresorhus/awesome) list of longevity resource
 - [Loyal for Dogs](https://loyalfordogs.com/): A clinical-stage veterinary medicine company. Aims to improve the healthspan (quality of life) and lifespan (years of life) of dogs.
 - [LessDeath](https://www.lessdeath.org/): An organisation focused on education, training and career guidance.
 - [DeepDNA](https://deepdna.ai): European AI-powered DNA analysis platform providing personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+- [PepVault](https://pepvault.app): PepVault is an iPhone tracker for peptide and GLP-1 protocols: doses, reminders, vials, sites, weight and bloodwork. Free to try, with a free web library.
 
 ## Job Portals
 - [Longevity List](https://longevitylist.com/): Find jobs, companies, and investors in the longevity industry
